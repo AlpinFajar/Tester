@@ -1,2 +1,2 @@
 console.log("Hallo Alpin")
-console.log("Hallo about")
+console.log("from index")
